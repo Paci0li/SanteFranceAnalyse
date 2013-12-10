@@ -1,4 +1,4 @@
-Santé en Vienne
+Temps pour se faire soigner
 ========================================================
 
 ![temps de soin moyen par département en France](img/franceMap.png)
